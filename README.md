@@ -10,11 +10,11 @@ This is a simple example of combining solid-app-router and Vite SSR
 
 `yarn install`
 
-### If you on Windows
+If you on Windows
 
 `yarn dev:win32`
 
-### If you on darwin/linux
+If you on darwin/linux
 
 `yarn dev:darwin:linux`
 
@@ -22,4 +22,10 @@ This is a simple example of combining solid-app-router and Vite SSR
 
 `yarn build`
 
-`yarn serve`
+If you on Windows
+
+`yarn serve:win32`
+
+If you on darwin/linux
+
+`yarn serve:darwin:linux`
