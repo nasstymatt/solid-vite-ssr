@@ -1,0 +1,7 @@
+.DS_Store
+._.DS_Store
+.prettierrc
+node_modules/
+dist/
+.vscode/
+solid-vite-ssr.code-workspace
